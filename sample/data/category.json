@@ -1,0 +1,24 @@
+db.category.insert(
+[
+    {
+        "id":1,
+        "category": "Cleansers"
+    },
+    {
+        "id":2,
+        "category":"Serums"
+    },
+    {
+        "id":3,
+        "category":"Creams"
+    },
+    {
+        "id":4,
+        "category":"Oils"
+    },
+    {
+        "id":5,
+        "category":"Hair Care"
+    }
+]
+)

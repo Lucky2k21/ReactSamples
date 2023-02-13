@@ -1,0 +1,177 @@
+db.products.insert(
+[
+    {
+        "id": 1,
+        "product_name": "Brightening Gel Face Wash",
+        "category": "Cleansers",
+        "category_id": 1,
+        "product_id":1,
+        "Price": 299,
+        "Image": "https://i.ibb.co/wMw9Vss/1.webp"
+    },
+    {
+        "id": 1,
+        "product_name": "Depigmentation Gel Face Wash",
+        "category": "Cleansers",
+        "category_id": 1,
+        "product_id":1,
+        "Price": 299,
+        "Image": "https://i.ibb.co/qFsbfL4/2.webp"
+    },
+    {
+        "id": 1,
+        "product_name": "Brightening Foaming Face Wash",
+        "category": "Cleansers",
+        "category_id": 1,
+        "product_id":1,
+        "Price": 449,
+        "Image": "https://i.ibb.co/BV6njHv/3.webp"
+    },
+    {
+        "id": 1,
+        "product_name": "Depigmentation Foaming Face Wash",
+        "category": "Cleansers",
+        "category_id": 1,
+        "product_id":1,
+        "Price": 449,
+        "Image": "https://i.ibb.co/gZnPQvN/4.webp"
+    },
+    {
+        "id": 1,
+        "product_name": "Refreshing Body wash",
+        "category": "Cleansers",
+        "category_id": 1,
+        "product_id":1,
+        "Price": 499,
+        "Image": "https://i.ibb.co/M95pDgH/bodywash.webp"
+    },
+    {
+        "id": 2,
+        "product_name": "Vitamin C Brightening Face serum",
+        "category": "Serums",
+        "category_id": 2,
+        "Price": 999,
+       "Image": "https://i.ibb.co/ZdVhdGY/5-1.webp"
+    },
+    {
+        "id": 2,
+        "product_name": "Niacinamide Depigmentation Face serum",
+        "category": "Serums",
+        "category_id": 2,
+        "Price": 999,
+       "Image": "https://i.ibb.co/Yp31Lb6/6.webp"
+    },
+    {
+        "id": 2,
+        "product_name": "Hair Growth Scalp Serum",
+        "category": "Serums",
+        "category_id": 2,
+        "Price": 599,
+       "Image": "https://i.ibb.co/TgFh393/scalpserum.webp"
+    },
+    {
+        "id": 2,
+        "product_name": "Exfoliating Face Serum",
+        "category": "Serums",
+        "category_id": 2,
+        "Price": 499,
+       "Image": "https://i.ibb.co/TgFh393/scalpserum.webp"
+    },
+    {
+        "id": 3,
+        "product_name": "Moisturising Day Face Cream",
+        "category": "creams",
+        "category_id": 3,
+        "Price": 399,
+        "Image": "https://i.ibb.co/WWjJStW/8.webp"
+    },
+    {
+        "id": 3,
+        "product_name": "Kumkumadi Night Face Cream",
+        "category": "creams",
+        "category_id": 3,
+        "Price": 399,
+        "Image": "https://i.ibb.co/h1drL68/9.webp"
+    },
+    {
+        "id": 3,
+        "product_name": "Healing Foot Cream",
+        "category": "creams",
+        "category_id": 3,
+        "Price": 399,
+        "Image": "https://i.ibb.co/RTXt5H5/13.webp"
+    },
+    {
+        "id": 3,
+        "product_name": "Moisturising Body Cream",
+        "category": "creams",
+        "category_id": 3,
+        "Price": 599,
+        "Image": "https://i.ibb.co/RTXt5H5/13.webp"
+    },
+    {
+        "id": 4,
+        "product_name": "Kumkumadi Face Oil",
+        "category": "oils",
+        "category_id": 4,
+        "Price": 1099,
+        "Image":"https://i.ibb.co/pPrFZK9/7.webp"
+    },
+    {
+        "id": 4,
+        "product_name": "Onion Scalp oil",
+        "category": "oils",
+        "category_id": 4,
+        "Price": 599,
+        "Image":"https://i.ibb.co/yn8bmdG/onion.webp"
+    },
+    {
+        "id": 4,
+        "product_name": "Herbal Hair oil",
+        "category": "oils",
+        "category_id": 4,
+        "Price": 599,
+        "Image":"https://i.ibb.co/kmqs23Q/herbal.webp"
+    },
+    {
+        "id": 4,
+        "product_name": "Nourishing Body Oil",
+        "category": "oils",
+        "category_id": 4,
+        "Price": 299,
+        "Image":"https://i.ibb.co/TgFh393/scalpserum.webp"
+    },
+    {
+        "id": 5,
+        "product_name": "Alovera Shampoo",
+        "category": "Hair Care",
+        "category_id": 5,
+        "Price": 299,
+        "Image":"https://i.ibb.co/R6YrS9m/alovera.webp"
+    },
+    {
+        "id": 5,
+        "product_name": "Detoxifying Shampoo",
+        "category": "Hair Care",
+        "category_id": 5,
+        "Price": 399,
+        "Image":"https://i.ibb.co/nD20Zdd/11.webp"
+    },
+    {
+        "id": 5,
+        "product_name": "Moisturising Shampoo",
+        "category": "Hair Care",
+        "category_id": 5,
+        "Price": 299,
+        "Image":"https://i.ibb.co/P9q4Ngm/10.webp"
+    },
+    {
+        "id": 5,
+        "product_name": " Hair Conditioner",
+        "category": "Hair Care",
+        "category_id": 5,
+        "Price": 299,
+        "Image":"https://i.ibb.co/z7cfDD1/12.webp"
+    }
+]
+)

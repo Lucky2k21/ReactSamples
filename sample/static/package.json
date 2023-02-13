@@ -1,0 +1,12 @@
+{
+  "name": "static",
+  "version": "1.0.0",
+  "description": "node",
+  "main": "static.js",
+  "scripts": {
+    "start": "node static.js",
+    "dev":"nodemon static.js"
+  },
+  "author": "l",
+  "license": "ISC"
+}
